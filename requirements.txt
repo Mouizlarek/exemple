@@ -1,0 +1,6 @@
+cvxp[glpk]
+numpy
+pandas
+matplotlib
+streamlit
+streamlit-option-menu
